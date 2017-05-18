@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  RightView.h
 //  DrawerController
 //
-//  Created by wurui on 17/5/10.
+//  Created by wurui on 17/5/15.
 //  Copyright © 2017年 wurui. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface RightView : UIViewController
 
 @end
-
