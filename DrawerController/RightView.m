@@ -10,8 +10,6 @@
 
 @interface RightView ()
 
-@property (nonatomic, strong) UIView *image;
-
 @end
 
 @implementation RightView
