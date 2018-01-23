@@ -10,6 +10,8 @@
 
 @interface RightView ()
 
+@property (nonatomic, strong) UIView *dif;
+
 @end
 
 @implementation RightView
